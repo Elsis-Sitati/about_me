@@ -26,5 +26,6 @@
         android:id="@+id/button"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:background="#d2143a" />
+        android:background="#d2143a"
+        android:onClick="onClick"/>
 </RelativeLayout>
